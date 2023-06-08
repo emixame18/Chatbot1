@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HECQUETquentin/ChatBotstjo.git"
+    "url": "git+https://github.com/emixame18/Chatbot1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HECQUETquentin/ChatBotstjo/issues"
+    "url": "https://github.com/emixame18/Chatbot1.git/issues"
   },
-  "homepage": "https://github.com/HECQUETquentin/ChatBotstjo#readme",
+  "homepage": "https://github.com/emixame18/Chatbot1.git#readme",
   "dependencies": {
-    "sass": "^1.62.1"
+    "cors": "^2.8.5"
   }
 }
